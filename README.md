@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abhishek22021@gmail.com**
 
-- 📄 Know about my experiences [https://acesse.one/se-ab-resume](https://acesse.one/se-ab-resume)
+- 📄 Know about my experiences [https://t.ly/QEljO](https://t.ly/QEljO)
 
 - ⚡ Fun fact **I think I am funny.**
 
