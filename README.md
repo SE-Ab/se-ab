@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abhishek22021@gmail.com**
 
-- 📄 Know about my experiences [https://t.ly/QEljO](https://t.ly/QEljO)
+- 📄 Know about my experiences [Portfolio](https://se-ab.github.io/Abhishek_Portfolio/)
 
 - ⚡ Fun fact **I think I am funny.**
 
