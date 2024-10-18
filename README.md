@@ -27,11 +27,11 @@
 </p>
 
 - 🔭 I’m currently working on [Truly Mentor](https://www.trulymentor.com/)
-- 🌱 I’m currently learning **Ionic Framework**
-- 💬 Ask me about **Angular, Java, Spring Boot**
+- 🌱 I’m currently learning **React Native**
+- 💬 Ask me about **Java, Spring Boot, Angular, and Ionic**
 - 📫 How to reach me: **abhishek22021@gmail.com**
 - 📄 Know about my experiences: [Portfolio](https://se-ab.github.io/Abhishek_Portfolio/)
-- ⚡ Fun fact: **I think I am funny.**
+- ⚡ Fun fact: **Code karo...Fun wun Chhoro..**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
