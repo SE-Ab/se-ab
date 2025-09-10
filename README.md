@@ -18,7 +18,7 @@
 - 🌱 **Learning:** React Native & Advanced State Management
 - 💡 **Expertise:** Java, Spring Boot, Angular, Ionic
 - 📫 **Email:** [abhishek22021@gmail.com](mailto:abhishek22021@gmail.com)
-- 🌐 **Portfolio:** [Explore My Work](https://se-ab.github.io/Abhishek_Portfolio/)
+- 🌐 **Portfolio:** [Explore My Work](https://se-ab.github.io/portfolio/)
 
 ---
 
