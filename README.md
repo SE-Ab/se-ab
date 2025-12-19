@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Full Stack Engineer | AI & Cybersecurity Scholar @ IIT Patna | Mobile App Expert
+  🚀 Full Stack Engineer | AI & Cybersecurity Scholar @ IIT Patna
 </h3>
 
 <p align="center">
