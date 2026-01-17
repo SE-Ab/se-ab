@@ -89,19 +89,10 @@ Currently, I am pursuing a **Master of Science in Artificial Intelligence & Cybe
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SE-Ab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SE-Ab&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/aviiii__heret">
+  <a href="https://instagram.com/aviiii__here">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/se_ab">
