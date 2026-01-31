@@ -92,7 +92,7 @@ Currently, I am pursuing a **Master of Science in Artificial Intelligence & Cybe
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/aviiii__here">
+  <a href="https://instagram.com/aviiii_here">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/se_ab">
