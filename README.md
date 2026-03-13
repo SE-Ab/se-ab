@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Full Stack Engineer with 2+ years of professional experience**, primarily working in the **Java & Spring Boot ecosystem**, along with modern frontend technologies like **React Native and Angular**.
+I am a **Full Stack Engineer with 3 years of professional experience**, primarily working in the **Java & Spring Boot ecosystem**, along with modern frontend technologies like **React Native and Angular**.
 
 Currently, I am pursuing a **Master of Science in Artificial Intelligence & Cybersecurity** at **IIT Patna**, where I focus on building **secure, intelligent, and scalable software systems**.
 
