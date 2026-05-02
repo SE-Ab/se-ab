@@ -1,11 +1,11 @@
 <h1 align="center">
   <span style="font-size: 2.8em; background: linear-gradient(90deg, #4F46E5, #9333EA); -webkit-background-clip: text; color: transparent;">
-    👋 Hi, I'm Abhishek Kumar Singh
+    Hi, I'm Abhishek Kumar Singh
   </span>
 </h1>
 
 <h3 align="center">
-  🚀 Full Stack Engineer | AI & Cybersecurity Scholar @ IIT Patna
+  Full Stack Engineer | AI & Cybersecurity Scholar @ IIT Patna
 </h3>
 
 <p align="center">
@@ -26,19 +26,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a **Full Stack Engineer with 3 years of professional experience**, primarily working in the **Java & Spring Boot ecosystem**, along with modern frontend technologies like **React Native and Angular**.
 
 Currently, I am pursuing a **Master of Science in Artificial Intelligence & Cybersecurity** at **IIT Patna**, where I focus on building **secure, intelligent, and scalable software systems**.
 
-- 🔭 **Currently Working On:**  
+- **Currently Working On:**  
   Enterprise-grade platforms at **Chapterfeed** & my EdTech product **ToonsCode**
-- 🎓 **Education:**  
+- **Education:**  
   MS in AI & Cybersecurity, **IIT Patna (2025–2027)**
-- 💡 **Core Interests:**  
+- **Core Interests:**  
   Microservices Architecture, Agentic AI Systems, Secure APIs & JWT-based Authentication
-- 📊 **Impact:**  
+- **Impact:**  
   Automated workflows that reduced operational effort by **~40%** in production environments
 
 ---
@@ -54,10 +54,10 @@ Currently, I am pursuing a **Master of Science in Artificial Intelligence & Cybe
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
-### 🧠 ToonsCode – AI-Powered Learning Platform
-🔗 https://www.toonscode.com/
+### ToonsCode – AI-Powered Learning Platform
+https://www.toonscode.com/
 
 - **Tech:** Spring Boot, React (Vite), MongoDB, Google Gemini API  
 - **Highlight:**  
@@ -65,31 +65,31 @@ Currently, I am pursuing a **Master of Science in Artificial Intelligence & Cybe
 
 ---
 
-### 🧾 Smart Raseed *(Live on Play Store)*
+### Smart Raseed *(Live on Play Store)*
 - **Tech:** Spring Boot, React Native (Expo)
 - **Impact:**  
   Secure digital receipt creation, encrypted storage, and analytics for small & medium businesses.
 
 ---
 
-### 🎓 Truly Mentor Academy *(Live on Play Store)*
+### Truly Mentor Academy *(Live on Play Store)*
 - **Tech:** Spring Boot, React Native
 - **Features:**  
   Role-based access, attendance automation, fee management, and exam modules for Admins, Teachers, and Students.
 
 ---
 
-## 🔒 Important Note About Repositories
+## Important Note About Repositories
 
-> **⚠️ Most of my professional and production-level projects are maintained as private repositories**  
+> **Most of my professional and production-level projects are maintained as private repositories**  
 > due to company policies, client confidentiality, and IP protection.
 
-📩 **If you are a recruiter, collaborator, or reviewer and would like access, demos, or detailed walkthroughs:**  
-👉 Please reach out via **email or LinkedIn**, and I’ll be happy to collaborate.
+**If you are a recruiter, collaborator, or reviewer and would like access, demos, or detailed walkthroughs:**  
+Please reach out via **email or LinkedIn**, and I’ll be happy to collaborate.
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://instagram.com/aviiii_here">
@@ -108,5 +108,5 @@ Currently, I am pursuing a **Master of Science in Artificial Intelligence & Cybe
 
 ---
 
-> 💡 **Motto:** _"Code karo… fun baad me follow karega."_ 😄  
+> **Motto:** _"Code karo… fun baad me follow karega."_ 
 > *(Keep coding — results will follow.)*
