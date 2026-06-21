@@ -212,19 +212,6 @@ Please contact me through email or LinkedIn for access-related discussions.
 
 ---
 
-## Coding Profiles
-
-<p align="center">
-  <a href="https://www.hackerrank.com/se_ab">
-    <img src="https://img.shields.io/badge/HackerRank-se__ab-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
-  </a>
-  <a href="https://www.leetcode.com/u/se-ab">
-    <img src="https://img.shields.io/badge/LeetCode-se__avi-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-  </a>
-</p>
-
----
-
 ## Connect
 
 <p align="center">
